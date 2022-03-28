@@ -16,4 +16,4 @@ Videre er noen ekstra funksjoner implementert:
  - Man kan angi snooze varighet fra 1 til 15 min. Default er 5 min.
 Endring av ringelyd var planlagt, men ettersom jeg ikke er særlig musikalsk anlagt, ble denne ideen forkastet. Melodiene som ble utprøvd var av en slik kvalitet at det antakelig er mer komfortabelt å våkne til én repeterende tone, slik det er i koden per nå.
 
-![klokken](hhtps://raw.githubusercontent.com/Kaexel/alarm_clock/main/images/alarm_menu.png)
+![klokken](https://raw.githubusercontent.com/Kaexel/alarm_clock/main/images/alarm_menu.png)
